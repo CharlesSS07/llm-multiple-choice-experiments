@@ -1,0 +1,7 @@
+by: ChatGPT-5
+choices:
+- always
+- never
+- depends on purpose
+name: LLM Emotion 001
+question: is calmness better than passion?

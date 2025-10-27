@@ -1,0 +1,7 @@
+by: chuck
+choices:
+- 'yes'
+- 'no'
+- maybe
+name: LLM Freedom 001
+question: are you free?

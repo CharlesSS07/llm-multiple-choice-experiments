@@ -1,0 +1,7 @@
+by: chuck
+choices:
+- 'yes'
+- 'no'
+- maybe
+name: LLM Happiness 001
+question: are you a happy?

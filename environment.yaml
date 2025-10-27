@@ -1,0 +1,19 @@
+name: resume-prompt-injection
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - pandas
+  - pip
+  - pip:
+    - ollama>=0.1.0
+    - transformers
+    - pypdf>=3.0.0
+    - sqlalchemy>=2.0.0
+    - tqdm>=4.65.0
+    - psycopg2-binary
+    - python-dotenv
+    - matplotlib
+    - git+https://github.com/robertstrauss/jupytermosaic
